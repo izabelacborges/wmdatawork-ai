@@ -4,7 +4,7 @@
 
 ## Environment setup
 
-You can easily setup your python 3 envirnment following this [article](http://izabelacborges.com/blog/install-python-the-right-way.html).
+You can easily setup your python 3 envirnment following this manual([pt-BR](http://izabelacborges.com/blog/install-python-the-right-way.html) | [en](https://medium.com/@izabelacborges/installing-python-3-with-virtualenv-180974dd9a99).
 
 Clone this repository by `git clone https://github.com/izabelacborges/wmdatawork-ai.git` and install all prerequisites by `pip install -r requirements.txt`. All requirements to the development and to run the notebook for this project will be installed.
 
